@@ -2,4 +2,4 @@
 
 https://github.com/tractis/desktopapp-releases/releases
 
-Current version 1.2.8
+Current version 1.2.9
